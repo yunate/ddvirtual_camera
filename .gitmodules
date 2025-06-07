@@ -1,0 +1,3 @@
+[submodule "3rd/dd"]
+	path = 3rd/dd
+	url = https://github.com/yunate/dd

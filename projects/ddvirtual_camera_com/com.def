@@ -1,0 +1,10 @@
+EXPORTS
+   DllMain             PRIVATE
+   DllCanUnloadNow     PRIVATE
+   DllGetClassObject   PRIVATE
+   DllRegisterServer   PRIVATE
+   DllUnregisterServer PRIVATE
+
+   ; 提供给用户安装使用
+   DllInstall          PRIVATE
+LIBRARY

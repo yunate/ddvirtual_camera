@@ -1,0 +1,4 @@
+#ifndef ddvirtual_camera_com_stdafx_h_
+#define ddvirtual_camera_com_stdafx_h_
+
+#endif // ddvirtual_camera_com_stdafx_h_
